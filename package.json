@@ -1,0 +1,22 @@
+{
+  "name": "odin-javascript-test",
+  "version": "1.0.0",
+  "description": "Writing JavaScript tests as part of The Odin Project JavaScript track",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/105ron/odin-js-test.git"
+  },
+  "author": "Rhys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/105ron/odin-js-test/issues"
+  },
+  "homepage": "https://github.com/105ron/odin-js-test#readme",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
+}
