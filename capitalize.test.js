@@ -1,7 +1,7 @@
 const capitalize = require('./capitalize');
 
 describe('capitalize', () => {
-  it('take a word and capitlizes the first caracters', () => {
+  it('takes a word and capitlizes the first character', () => {
       expect(capitalize('hi')).toBe('Hi');
   });
   it('takes a sentence and only capitalizes the first word', () => {
