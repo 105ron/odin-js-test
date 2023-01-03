@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/105ron/odin-js-test#readme",
   "devDependencies": {
-    "jest": "^22.1.4"
+    "jest": "^29.3.1"
   }
 }
